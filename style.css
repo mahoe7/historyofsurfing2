@@ -18,7 +18,7 @@ h1, h2, h3 {
 div {
   width: 200px;
   text-align: center;
-  color: #a0341b;
+  color: #a08c35;
   margin: 10px;
 }
 
@@ -40,8 +40,8 @@ div {
   display: inline-block;
 }
 
-#Duke {
-  background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Duke_Kahanamoku_c1912.jpg/220px-Duke_Kahanamoku_c1912.jpg);
+#Jack {
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Jack_London_young.jpg/250px-Jack_London_young.jpg);
   float: inherit;
   display: inline-block;
 }
