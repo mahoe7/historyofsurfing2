@@ -1,0 +1,47 @@
+body {
+  background-image: url(background.jpg);
+  color: whitesmoke;
+  font-family: 'Roboto', sans-serif;
+  justify-content: center;
+}
+
+h1, h2, h3 {
+  text-align: center;
+  font-family: 'Tangerine', serif;
+  font-size: 72px;
+}
+
+#Profiles {
+  text-align: center;
+}
+
+div {
+  width: 200px;
+  text-align: center;
+  color: #a0341b;
+  margin: 10px;
+}
+
+#Eddie {
+  background-image: url(https://upload.wikimedia.org/wikipedia/en/a/ae/Eddie_Aikau.jpg);
+  float: inherit;
+  display: inline-block;
+}
+
+#Michael {
+  background-image: url(http://www.surfline.com/surfaz/images/ho_michael/1chang_mho_winner.jpg);
+  float: inherit;
+  display: inline-block;
+}
+
+#Carissa {
+  background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Carissa_moore_2011_biarritz.jpg/220px-Carissa_moore_2011_biarritz.jpg);
+  float: inherit;
+  display: inline-block;
+}
+
+#Duke {
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Duke_Kahanamoku_c1912.jpg/220px-Duke_Kahanamoku_c1912.jpg);
+  float: inherit;
+  display: inline-block;
+}
